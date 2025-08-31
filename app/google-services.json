@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126747211214",
+    "project_id": "geocheckin-pro",
+    "storage_bucket": "geocheckin-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126747211214:android:80c6e03c6303005906a79f",
+        "android_client_info": {
+          "package_name": "com.example.checkin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CaK1l1nE71TXrMw4zB87Iw61nB70ujk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
